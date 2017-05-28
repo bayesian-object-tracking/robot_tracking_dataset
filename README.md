@@ -7,6 +7,9 @@ by Cristina Garcia Cifuentes, Jan Issac, Manuel Wüthrich, Stefan Schaal and Jea
 The repository is currently hosted [here](https://git-amd.tuebingen.mpg.de/open-source/hand_tracking_dataset/wikis/home).
 You may email any questions to [Cristina](https://am.is.tuebingen.mpg.de/person/ccifuentes).
 
+The below pictures shows three samples of the dataset. Sequences contain situations with fast to slow robot arm as well as camera motion and none or very severe, long-term occlusions. 
+![](ArmTrackingDataSetSample.png?raw=true)
+
 ## How to cite?
 ```
 @article{GarciaCifuentes.RAL,
